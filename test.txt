@@ -1,4 +1,6 @@
 test
-test2---
-add new line
-hot_fix
+aaaaaaaaaaa
+
+edit by master
+edit by hot_ix
+new content
